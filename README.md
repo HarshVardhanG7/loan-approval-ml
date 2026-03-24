@@ -26,5 +26,4 @@ This project predicts loan approval status using machine learning based on appli
 1. Install requirements
 2. Run the notebook
 
-## 👤 Author
-Your Name
+
